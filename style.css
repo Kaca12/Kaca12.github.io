@@ -1,0 +1,21 @@
+#navbar {
+  background-color: rgb(0, 128, 15);
+}
+#jumbotron {
+  background-color: #b5e7bb;
+}
+#about {
+  background-color: #fff;
+}
+#project {
+  background-color: #b5e7bb;
+}
+#contact {
+  background-color: #fff;
+}
+#footer {
+   background-color: #b5e7bb;
+}
+section {
+  padding-top: 5rem;
+}
